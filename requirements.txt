@@ -1,0 +1,8 @@
+streamlit
+crewai
+cohere
+google-genai
+python-dotenv
+pandas
+pydantic
+pydantic-settings

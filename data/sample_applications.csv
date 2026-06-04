@@ -1,0 +1,6 @@
+id,name,occupation,county,income,savings,loan_amount,purpose,children_under_5,status
+1,Grace Achieng,Shea Butter Trader,Busia,18000,9000,28000,"Purchase raw materials, cover school fees, and expand market stock.",4,pending
+2,Amina Otieno,Market Vendor,Kakamega,22000,12000,14000,"Stock maize, pay school fees, and manage harvest cycle cash flow.",2,pending
+3,Joyce Njeri,Digital Tailor,Nairobi,32000,18000,10000,"Buy sewing materials and create a savings buffer for future orders.",1,approved
+4,Mary Wanjiku,Juice Seller,Embu,15000,6000,12000,"Refresh stall inventory and support monthly household expenses.",3,pending
+5,Esther Kamau,Craft Vendor,Busia,17000,8000,18000,"Invest in new craft supplies and manage childcare costs during peak season.",2,pending
