@@ -166,7 +166,7 @@ def main() -> None:
 
             st.markdown("---")
             st.header("LLM Status")
-            st.write(f"Current Provider: {pipeline_result["provider"]}")
+            st.write(f"Current Provider: {pipeline_result['provider']}")
 
         except Exception as error:
             st.error(f"Unable to process application: {error}")
